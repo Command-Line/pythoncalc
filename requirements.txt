@@ -1,0 +1,7 @@
+# requirements.txt file for Python
+
+## Test runner/testing utils
+nose
+
+## Python Library
+ply==3.9
