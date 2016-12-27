@@ -1,4 +1,4 @@
-# PythonCalc
+# PythonCalc [![Travis CI - Build Status](https://travis-ci.org/Command-Line/pythoncalc.svg?branch=master)](https://travis-ci.org/Command-Line/pythoncalc)
 
 <img src="./pythoncalc-logo.png"
  hspace="20" align="right" height="200" width="200" />
